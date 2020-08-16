@@ -1,7 +1,12 @@
 # Cardiac_Arrhythmia_Detection_Classification
-Classification model building 
+## Classification model building 
 
 This database contains 279 attributes, 206 of which are linear valued, and the rest are nominal. The aim is to distinguish between the presence and absence of cardiac arrhythmia and to classify it in one of the 16 groups. Class 01 refers to 'normal' ECG classes 02 to 15 refers to different classes of arrhythmia, and class 16 refers to the rest of unclassified ones.
+
+ ## Software and Libraries Used
+- Language: Python 
+- Software: Jupyter Notebook
+- Libraries: Pandas, Numpy, Matplotlib, Sklearn, Seaborn
 
 
 The following stages were performed 
